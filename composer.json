@@ -1,0 +1,11 @@
+{
+    "require": {
+        "doctrine/orm": "2.*",
+        "doctrine/migrations": "master-dev",
+        "symfony/console": "2.*",
+        "symfony/yaml": "2.*"
+    },
+    "autoload": {
+        "psr-0": {"OrmTeste": "src/"}
+    }
+}
